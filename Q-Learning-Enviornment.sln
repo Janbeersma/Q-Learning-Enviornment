@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Q-Learning-Enviornment", "Q-Learning-Enviornment\Q-Learning-Enviornment.pyproj", "{0678C948-8E34-4850-A38F-C880FA7028B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0678C948-8E34-4850-A38F-C880FA7028B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0678C948-8E34-4850-A38F-C880FA7028B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F07B8C6-8238-4B1D-92A5-2E1F69290340}
+	EndGlobalSection
+EndGlobal
